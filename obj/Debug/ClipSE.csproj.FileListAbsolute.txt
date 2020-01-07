@@ -1,0 +1,4 @@
+D:\r3xq1_Projects\ClipSE\bin\Debug\ClipSE.exe
+D:\r3xq1_Projects\ClipSE\bin\Debug\ClipSE.pdb
+D:\r3xq1_Projects\ClipSE\obj\Debug\ClipSE.exe
+D:\r3xq1_Projects\ClipSE\obj\Debug\ClipSE.pdb
