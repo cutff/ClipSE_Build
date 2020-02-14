@@ -25,11 +25,11 @@ using Microsoft.Win32;
 [assembly: AssemblyTitle("[TITLE]")]
 [assembly: AssemblyCompany("[COMPANY]")]
 [assembly: AssemblyProduct("[PRODUCT]")]
-[assembly: AssemblyCopyright("Copyright © r3xq1 2020")]
+[assembly: AssemblyCopyright("Copyright © [COPYRIGHT] 2020")]
 [assembly: ComVisible(false)]
-[assembly: Guid("b50c8fd0-c387-4c0c-88fe-410a61c1873d")]
-[assembly: AssemblyVersion("0.0.1.3")]
-[assembly: AssemblyFileVersion("0.0.1.3")]
+[assembly: Guid("[GUID]")]
+[assembly: AssemblyVersion("[VERSION]")]
+[assembly: AssemblyFileVersion("[FILEVERSION]")]
 
 #endregion
 
